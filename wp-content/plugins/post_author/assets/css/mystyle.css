@@ -1,0 +1,46 @@
+
+.post_author-bio-wrap {
+	
+	margin: 10px 0 10px -10px;
+	padding: 20px;
+	border: 1px solid green;
+	display:block;
+	overflow:hidden;
+	
+	
+}
+
+
+.post_author-name{
+	
+	color:Blue;
+	font-size: 30px;
+	
+}
+
+
+ul.post-author-socials{
+	
+	clear: both;
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	
+}
+
+
+ul.post-author-socials li{
+	
+	display:inline-block;
+	padding: 3px 10px;
+	border: 1px solid grey;
+	
+}
+
+
+
+ul.post-author-socials li a{
+	
+	text-decoration:none;
+	
+}
